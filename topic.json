@@ -1,0 +1,334 @@
+{
+     "course": {
+          "id": "232",
+          "name": "English 301",
+          "logo": "https",
+          "notes": null,
+          "days_to_complete": null,
+          "short_description": "English basics",
+          "type": "html",
+          "course_type": "json",
+          "lang_available": [
+               "en"
+          ],
+          "exercises": [
+               {
+                    "id": "7077",
+                    "parent_exercise_id": null,
+                    "course_id": "232",
+                    "name": "Contents",
+                    "slug": "english-301_json__Contents_json",
+                    "sequence_num": 0,
+                    "review_type": "manual",
+                    "submission_type": null,
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/english-301_json/Contents.json",
+                    "solution": null,
+                    "content": [
+                         {
+                              "component": "text",
+                              "value": "In this course, we will mostly be learning how to break sentences into small parts in order to understand them."
+                         },
+                         {
+                              "component": "text",
+                              "value": "Phrases",
+                              "decoration": {
+                                   "type": "number",
+                                   "value": 1
+                              }
+                         },
+                         {
+                              "component": "text",
+                              "value": "Breaking_Sentences.md",
+                              "decoration": {
+                                   "type": "number",
+                                   "value": 2
+                              }
+                         },
+                         {
+                              "component": "text",
+                              "value": "Reading_Practice.md",
+                              "decoration": {
+                                   "type": "number",
+                                   "value": 3
+                              }
+                         },
+                         {
+                              "component": "text",
+                              "value": "Is course ko use karne ke liye instructions neeche diye gae hain:"
+                         },
+                         {
+                              "component": "text",
+                              "value": "Phrases: Read about phrases and complete the exercise. Mentors to check understanding of the mentees.",
+                              "decoration": {
+                                   "type": "number",
+                                   "value": 1
+                              }
+                         },
+                         {
+                              "component": "text",
+                              "value": "Breaking Sentences: Everyone should know how to use this technique how to break sentences into phrases and then finding the meaning. Read up the text and watch the video (if any). Then practice using this technique.",
+                              "decoration": {
+                                   "type": "number",
+                                   "value": 2
+                              }
+                         },
+                         {
+                              "component": "text",
+                              "value": "Reading Practice: Practice the sentence breaking using the content in this book. Mentors have to ensure that the mentees know how to use this very well. Do not ask them to move forward unless this is known well.",
+                              "decoration": {
+                                   "type": "number",
+                                   "value": 3
+                              }
+                         }
+                    ]
+               },
+               {
+                    "id": "7078",
+                    "parent_exercise_id": null,
+                    "course_id": "232",
+                    "name": "Phrases",
+                    "slug": "english-301_json__Phrases_json",
+                    "sequence_num": 100,
+                    "review_type": "manual",
+                    "submission_type": null,
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/english-301_json/Phrases.json",
+                    "solution": null,
+                    "content": [
+                         {
+                              "component": "text",
+                              "value": "A group of meaningful words without a finite verb is a phrase."
+                         },
+                         {
+                              "component": "text",
+                              "value": "Words ka ek group jisme verb nahi hai, use \"phrase\" kehte hain."
+                         },
+                         {
+                              "component": "text",
+                              "value": "Example:"
+                         },
+                         {
+                              "component": "text",
+                              "value": "<b>The syntax of Python</b> is interesting.",
+                              "decoration": {
+                                   "type": "number",
+                                   "value": null
+                              }
+                         },
+                         {
+                              "component": "text",
+                              "value": "<b>In spite of working hard</b>, he could not the complete the assignment on time.",
+                              "decoration": {
+                                   "type": "number",
+                                   "value": null
+                              }
+                         },
+                         {
+                              "component": "text",
+                              "value": "Exercise: "
+                         },
+                         {
+                              "component": "text",
+                              "value": "Identify the phrase in the following sentences."
+                         },
+                         {
+                              "component": "text",
+                              "value": "The mother taught her children to listen to her words.",
+                              "decoration": {
+                                   "type": "number",
+                                   "value": 1
+                              }
+                         },
+                         {
+                              "component": "text",
+                              "value": "The nurses cared for the patients admitted to the hospital.",
+                              "decoration": {
+                                   "type": "number",
+                                   "value": 2
+                              }
+                         },
+                         {
+                              "component": "text",
+                              "value": "The fire coming from the sky frightened the tribal people.",
+                              "decoration": {
+                                   "type": "number",
+                                   "value": 3
+                              }
+                         },
+                         {
+                              "component": "text",
+                              "value": "He told them the secret of growing crops.",
+                              "decoration": {
+                                   "type": "number",
+                                   "value": 4
+                              }
+                         },
+                         {
+                              "component": "text",
+                              "value": "They used the gifts of nature to live better.",
+                              "decoration": {
+                                   "type": "number",
+                                   "value": 5
+                              }
+                         }
+                    ]
+               },
+               {
+                    "id": "7079",
+                    "parent_exercise_id": null,
+                    "course_id": "232",
+                    "name": "Breaking_Sentences",
+                    "slug": "english-301_json__Breaking_Sentences_json",
+                    "sequence_num": 200,
+                    "review_type": "manual",
+                    "submission_type": null,
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/english-301_json/Breaking_Sentences.json",
+                    "solution": null,
+                    "content": [
+                         {
+                              "component": "header",
+                              "variant": 2,
+                              "value": "Breaking Down Sentences into Phrases"
+                         },
+                         {
+                              "component": "text",
+                              "value": "Kai mushkil sentences ko samajhne ke liye hum unhe chhote parts me divide karke samajh sakte hain. "
+                         },
+                         {
+                              "component": "text",
+                              "value": "Ek senctences ko phrases me divide kar sakte hain. Un phrases ka matlab samajahkar aur phir phrases ko jodkar pure sentence ka matlab samajh sakte hain."
+                         },
+                         {
+                              "component": "text",
+                              "value": "Phrase : a small group of words standing together as a conceptual unit, typically forming a component of a clause"
+                         },
+                         {
+                              "component": "text",
+                              "value": "Examples:"
+                         },
+                         {
+                              "component": "text",
+                              "value": "With a given integral number n, write a program to generate a dictionary that contains (i, i*i) such that is an integral number between 1 and n (both included). and then the program should print the dictionary.",
+                              "decoration": {
+                                   "type": "number",
+                                   "value": 1
+                              }
+                         },
+                         {
+                              "component": "text",
+                              "value": "The phrases in this sentence are:"
+                         },
+                         {
+                              "component": "text",
+                              "value": "With a given integral number n",
+                              "decoration": {
+                                   "type": "number",
+                                   "value": null
+                              }
+                         },
+                         {
+                              "component": "text",
+                              "value": "write a program",
+                              "decoration": {
+                                   "type": "number",
+                                   "value": null
+                              }
+                         },
+                         {
+                              "component": "text",
+                              "value": "generate a dictionary",
+                              "decoration": {
+                                   "type": "number",
+                                   "value": null
+                              }
+                         },
+                         {
+                              "component": "text",
+                              "value": "that contains (i, i*i)",
+                              "decoration": {
+                                   "type": "number",
+                                   "value": null
+                              }
+                         },
+                         {
+                              "component": "text",
+                              "value": "is an integral number 1 and n",
+                              "decoration": {
+                                   "type": "number",
+                                   "value": null
+                              }
+                         },
+                         {
+                              "component": "text",
+                              "value": "then the program should print the dictionary",
+                              "decoration": {
+                                   "type": "number",
+                                   "value": null
+                              }
+                         },
+                         {
+                              "component": "text",
+                              "value": "We use set container to remove duplicated data automatically and then use sorted() to sort the data.",
+                              "decoration": {
+                                   "type": "number",
+                                   "value": 2
+                              }
+                         },
+                         {
+                              "component": "text",
+                              "value": "The phrases in this sentence are:"
+                         },
+                         {
+                              "component": "text",
+                              "value": "We use set container to",
+                              "decoration": {
+                                   "type": "number",
+                                   "value": null
+                              }
+                         },
+                         {
+                              "component": "text",
+                              "value": "remove duplicated data automatically",
+                              "decoration": {
+                                   "type": "number",
+                                   "value": null
+                              }
+                         },
+                         {
+                              "component": "text",
+                              "value": "then use sorted() to sort the data",
+                              "decoration": {
+                                   "type": "number",
+                                   "value": null
+                              }
+                         },
+                         {
+                              "component": "text",
+                              "value": "Phrases aur words ko jodne ke liye jin words ko use kiya jaata hai unhe conjunctions kaha jaata hai."
+                         },
+                         {
+                              "component": "text",
+                              "value": "Examples:<br>for, and, nor, that, which, or, yet, since"
+                         }
+                    ]
+               },
+               {
+                    "id": "7080",
+                    "parent_exercise_id": null,
+                    "course_id": "232",
+                    "name": "Reading_Practice",
+                    "slug": "english-301_json__Reading_Practice_json",
+                    "sequence_num": 300,
+                    "review_type": "manual",
+                    "submission_type": null,
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/english-301_json/Reading_Practice.json",
+                    "solution": null,
+                    "content": [
+                         {
+                              "component": "text",
+                              "value": "You can practice your readng skills reading <a href=\"https://www.researchgate.net/publication/258339295_FUNDAMENTALS_OF_COMPUTER_STUDIES\">this book</a> about computer fundamentals."
+                         }
+                    ]
+               }
+          ]
+     }
+}
